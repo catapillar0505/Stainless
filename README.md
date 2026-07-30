@@ -174,7 +174,6 @@ Stainless를 디벨롭한 1인 프로젝트로, YOLOv12 + AWS/Kubernetes 기반 
 
 > **"일상 속 미세한 부분까지, 대신 확인해주는 시력보조 파트너"**
 
-- 🌐 도메인: [https://microlens.cloud](https://microlens.cloud/)
 - 📹 시연 영상: [https://youtu.be/7jnekg9lZeo](https://youtu.be/7jnekg9lZeo)
 - 💻 GitHub: [microlens-infra](https://github.com/MICRO-LENS/microlens-infra) · [microlens-ai-api](https://github.com/MICRO-LENS/microlens-ai-api) · [microlens-client](https://github.com/MICRO-LENS/microlens-client)
 
